@@ -21,15 +21,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: python c & c++,SQL sever
 
-- 🔭 I’m currently working on some project 
-- 🌱 I’m currently learning many languages 
-- 👯 I’m looking to collaborate on some project 
-- 🤔 I’m looking for help with nothing 
-- 💬 Ask me about nothing 
-- 📫 How to reach me: no neeed 
-- 😄 Pronouns: noyhing 
-- ⚡ Fun fact: i am flash 
+### Hi there 👋, my name is captain jack
+#### I am passionate engineer
+![I am passionate engineer](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+Skills: python c & c++,SQL sever
 
 
