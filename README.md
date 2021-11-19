@@ -1,4 +1,4 @@
-<h2 align="center"> Hello, this is Akshay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="400px"> 
+<h2 align="center"> Hello, this is Captain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="400px"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Akshaykharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-kharat/)](https://www.linkedin.com/in/akshay-kharat/) [![Gmail Badge](https://img.shields.io/badge/-kharatakshay16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kharatakshay16@gmail.com)](mailto:kharatakshay16@gmail.com)
 
